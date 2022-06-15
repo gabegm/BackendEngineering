@@ -112,3 +112,5 @@
    *  Checks a given expression after the execution of a method and could alter the result
 *  hasAuthorithy
    *  Checks if current principal has the specified role
+*  Getter and Setter annotations `@Getter` & `@Setter`
+   *  Used by Lombok to generate default getter/setter methods for fields
